@@ -1,7 +1,7 @@
 # MachineLearningSystemDesign
 High Level System Design Overview
 
-1. [Youtube Recommendation using Simple Math](/Design%20Simple%20Youtube%20Recommendation%20using%20Simple%20Math.pdf)
+1. [Youtube Recommendation using Simple Math](/Youtube%20Recommendation/Design%20Simple%20Youtube%20Recommendation%20using%20Simple%20Math.pdf)
     
     Design Simple Youtube recommendation system using 10th std math.  
     - Problem Defination and Business usecase
