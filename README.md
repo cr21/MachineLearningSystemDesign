@@ -1,5 +1,7 @@
 # MachineLearningSystemDesign
-High Level System Design Overview
+High Level System Design Overview:
+
+This is not clear cut  final solution to the problem discussed in project. If somebody ask me to build the solution for the problem discuss here,I would have explained in this way. There might be mistakes or you have better solution or approach, please let me know. 
 
 1. [Youtube Recommendation using Simple Math](/Youtube%20Recommendation/Design%20Simple%20Youtube%20Recommendation%20using%20Simple%20Math.pdf)
     
